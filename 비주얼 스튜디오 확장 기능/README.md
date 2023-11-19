@@ -1,0 +1,3 @@
+- Auto Rename Tag : 여는 태그의 이름을 변경하면 닫는 태그의 이름도 자동으로 변경
+- brackets light : 에디터의 밝은색 테마 지원
+- css navigation : 특정 html 영역에서 ctrl + 마우스 왼쪽을 눌러서 연결된 css 확인
